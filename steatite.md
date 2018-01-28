@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_image: /assets/steatite.png
   overlay_filter: 0.7
-  cta_label: "Essayer"
+  cta_label: "Essayer en ligne"
   cta_url: "http://steatite.hypertopic.org"
 ---
 
