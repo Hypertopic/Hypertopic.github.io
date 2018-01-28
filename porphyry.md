@@ -1,6 +1,7 @@
 ---
 author: aurelien
 author_profile: true
+layout: splash
 ---
 
 ## Porphyry
