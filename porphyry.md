@@ -1,5 +1,5 @@
 ---
-type: pages
+layout: splash
 ---
 
 ## Porphyry
