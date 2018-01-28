@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_image: /assets/lasuli.png
   overlay_filter: 0.7
-  cta_label: "Télécharger (dans Firefox ESR)"
+  cta_label: "Installer (dans Firefox ESR)"
   cta_url: "https://hypertopic.s3.amazonaws.com/lasuli.xpi"
 ---
 
