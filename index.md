@@ -7,7 +7,7 @@ header:
   caption: "Photographie : A. Bénel"
 ---
 
-Le collectif Hypertopic conçoit, développe et diffuse en open-source des technnologies logicielles pour le travail intellectuel, qu'il soit universitaire (archéologie, histoire de l'art, sociologie, philologie, traduction) ou en entreprise (propriété intellectuelle, capitalisation de l'expérience et des compétences).
+Le collectif Hypertopic conçoit, développe et diffuse en [open-source](https://github.com/Hypertopic) des technnologies logicielles pour le travail intellectuel, qu'il soit universitaire (archéologie, histoire de l'art, sociologie, philologie, traduction) ou en entreprise (propriété intellectuelle, capitalisation de l'expérience et des compétences).
 
 Le modèle Hypertopic est issu de recherches en informatique, plus particulièrement dans le domaine de l'ingénierie des connaissances. La modélisation des connaissances qu'il permet, à la différence des ontologies du Web sémantique :
 
