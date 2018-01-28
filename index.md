@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Technologies logicielles pour l'instrumentation du travail intellectuel"
-excerpt: "Une informatique au service du sens"
+title: "Une informatique au service du sens"
+excerpt: "Technologies logicielles pour l'instrumentation du travail intellectuel"
 header: 
   overlay_image: /sounion.jpg
   cta_label: "Télécharger"
