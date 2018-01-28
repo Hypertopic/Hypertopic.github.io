@@ -4,10 +4,8 @@ author_profile: true
 layout: splash
 header:
   overlay_image: /assets/porphyry.png
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: 0.5
 ---
-
-## Porphyry
 
 Le logiciel Porphyry tire son nom de l'*arbre de Porphyre*, 
 un des premiers systèmes classificatoires représenté sous forme graphique.
