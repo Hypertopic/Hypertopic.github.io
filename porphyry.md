@@ -4,6 +4,8 @@ layout: splash
 header:
   overlay_image: /assets/porphyry.png
   overlay_filter: 0.7
+  cta_label: "Démonstration"
+  cta_url: "http://vitraux.porphyry.org"
 ---
 
 Le logiciel Porphyry tire son nom de l'*arbre de Porphyre*, 
