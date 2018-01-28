@@ -1,5 +1,4 @@
 ---
-layout: splash
 author: aurelien
 author_profile: true
 ---
