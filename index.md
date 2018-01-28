@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Une autre approche de la sémantique du Web"
 header: 
+  excerpt:"Une informatique au service du sens"
   overlay_image: /sounion.jpg
   cta_label: "Télécharger"
   cta_url: "https://hypertopic.s3.amazonaws.com/lasuli.xpi"
