@@ -8,7 +8,7 @@ header:
   cta_url: "http://steatite.hypertopic.org"
 ---
 
-Le nom du logiciel est à l'origine un acronyme signifiant `Serveur de traitement, d'émission et d'archivage de textes, images et épures`.
+Le nom du logiciel est à l'origine un acronyme signifiant "Serveur de traitement, d'émission et d'archivage de textes, images et épures".
 Aujourd'hui, il est spécialisé dans la gestion des images, tandis que [Cassandre](cassandre) dans la gestion des textes.
 
 ### Fonctionnalités
