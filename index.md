@@ -1,11 +1,12 @@
 ---
 layout: splash
+title: "Technologies logicielles pour l'instrumentation du travail intellectuel"
+excerpt: "Une informatique au service du sens"
 header: 
   overlay_image: /sounion.jpg
   cta_label: "Télécharger"
   cta_url: "https://hypertopic.s3.amazonaws.com/lasuli.xpi"
   caption: "Photographie : A. Bénel"
-excerpt: "Une informatique au service du sens"
 ---
 
 ## Welcome to GitHub Pages
