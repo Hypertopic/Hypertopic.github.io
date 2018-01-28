@@ -1,10 +1,11 @@
 ---
 layout: splash
-title: Une autre approche de la sémantique
+title: "Une autre approche de la sémantique"
 header: 
   image: /sounion.jpg
-  cta_label: Télécharger
+  cta_label: "Télécharger"
   cta_url: https://hypertopic.s3.amazonaws.com/lasuli.xpi
+  caption: "caption: Photographie : A. Bénel"
 ---
 
 ## Welcome to GitHub Pages
