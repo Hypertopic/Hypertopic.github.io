@@ -10,7 +10,7 @@ header:
 
 Le logiciel tire son nom du personnage de la mythologie, doué de clairvoyance mais condamné à ne jamais être cru.
 
-### Fonctionnalités
+# Fonctionnalités
 
 Cassandre est une plateforme de journaux de bord permettant de :
 
