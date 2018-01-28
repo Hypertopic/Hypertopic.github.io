@@ -9,7 +9,7 @@ header:
 ---
 
 Le nom du logiciel est à l'origine un acronyme signifiant "Serveur de traitement, d'émission et d'archivage de textes, images et épures".
-Aujourd'hui, il est spécialisé dans la gestion des images, tandis que [Cassandre](cassandre) dans la gestion des textes.
+Aujourd'hui, il est spécialisé dans la gestion des images, tandis que [Cassandre](cassandre) l'est dans la gestion des textes.
 
 ### Fonctionnalités
 
