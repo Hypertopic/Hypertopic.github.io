@@ -1,3 +1,7 @@
+---
+type: pages
+---
+
 ## Porphyry
 
 Le logiciel Porphyry tire son nom de l'*arbre de Porphyre*, 
