@@ -4,8 +4,7 @@ title: "Une informatique au service du sens"
 excerpt: "Technologies logicielles pour l'instrumentation du travail intellectuel"
 header: 
   overlay_image: /sounion.jpg
-  cta_label: "Télécharger"
-  cta_url: "https://hypertopic.s3.amazonaws.com/lasuli.xpi"
+  cta_label: "Voir en vidéo"
   caption: "Photographie : A. Bénel"
 ---
 
