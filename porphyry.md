@@ -4,6 +4,7 @@ author_profile: true
 layout: splash
 header:
   image: /assets/porphyry.png
+  overlay_filter: rgba(255, 0, 0, 0.5)
 ---
 
 ## Porphyry
