@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_image: /assets/porphyry.png
   overlay_filter: 0.7
-  cta_label: "Démonstration"
+  cta_label: "Essayer"
   cta_url: "http://vitraux.porphyry.org"
 ---
 
