@@ -9,4 +9,5 @@ main:
     url: /cassandre
   - title: "Interopérabilité"
     url: /interopérabilité
-  - title: "Authentification et autorisation"
+  - title: "Sécurité"
+    url: /sécurité
