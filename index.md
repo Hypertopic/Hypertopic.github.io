@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Une autre approche de la sémantique"
+title: "Une autre approche de la sémantique du Web"
 header: 
   image: /sounion.jpg
   cta_label: "Télécharger"
