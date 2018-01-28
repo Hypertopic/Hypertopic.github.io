@@ -3,7 +3,7 @@ layout: splash
 title: "Une informatique au service du sens"
 excerpt: "Technologies logicielles pour l'instrumentation du travail intellectuel"
 header: 
-  overlay_image: /sounion.jpg
+  overlay_image: /assets/sounion.jpg
   caption: "Photographie : A. Bénel"
 ---
 

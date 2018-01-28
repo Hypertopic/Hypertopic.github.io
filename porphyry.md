@@ -2,6 +2,8 @@
 author: aurelien
 author_profile: true
 layout: splash
+header:
+  image: /assets/porphyry.png
 ---
 
 ## Porphyry
