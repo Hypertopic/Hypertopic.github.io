@@ -1,4 +1,10 @@
-## Steatite 
+---
+title: Steatite 
+layout: splash
+header:
+  overlay_image: /assets/steatite.png
+  overlay_filter: 0.7
+---
 
 Le nom du logiciel est à l'origine un acronyme signifiant `Serveur de traitement, d'émission et d'archivage de textes, images et épures`.
 Aujourd'hui, il est spécialisé dans la gestion des images, tandis que [Cassandre](cassandre) dans la gestion des textes.
