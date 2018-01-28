@@ -15,6 +15,4 @@ Le modèle Hypertopic est issu de recherches en informatique, plus particulière
 - est construite au fil de l’activité par les experts eux-mêmes plutôt que par un “ingénieur des connaissances” une fois pour toutes, 
 - ne doit pas se faire au prix d’un nivellement du sens, mais doit tenir compte au contraire des divergences de points de vue.
 
-En privilégiant les **documents** aux données, les **interprétations** aux inférences formelles, et la **confrontation de points de vue** aux   
-
-En cela, l'approche Hypertopic s'inscrit dans la lignée de l'Herméneutique philosophique de Dilthey, à la base de l'épistémologie des Sciences historiques et des sciences sociales.
+En étant plus "herméneutique" (ouvert à l'interprétation) que "sémantique", le Web que le collectif Hypertopic tente de construire est plus ambitieux mais paradoxalement plus simple à mettre en œuvre car reposant davantage sur l’intelligence humaine, un Web qui dans son rapport aux documents (par opposition aux données) est plus proche aussi de la tradition des sciences historiques et des sciences sociales.
