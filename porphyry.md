@@ -11,7 +11,7 @@ header:
 Le logiciel Porphyry tire son nom de l'*arbre de Porphyre*, 
 un des premiers systèmes classificatoires représentés sous forme graphique.
 
-### Fonctionnalités
+# Fonctionnalités
 
 - Consulter un portfolio rassemblant plusieurs corpus et plusieurs points de vue,
   - Consulter les items correspondant à une sélection de catégories,
