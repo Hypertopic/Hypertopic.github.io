@@ -1,10 +1,9 @@
 ---
-author: aurelien
-author_profile: true
+title: Porphyry
 layout: splash
 header:
   overlay_image: /assets/porphyry.png
-  overlay_filter: 0.5
+  overlay_filter: 0.7
 ---
 
 Le logiciel Porphyry tire son nom de l'*arbre de Porphyre*, 
