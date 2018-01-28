@@ -1,7 +1,9 @@
 ---
 layout: splash
+title: Une autre approche de la sémantique
 header: 
   image: /sounion.jpg
+cta_label: Télécharger
 ---
 
 ## Welcome to GitHub Pages
