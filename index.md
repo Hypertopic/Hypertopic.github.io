@@ -1,5 +1,7 @@
 ---
 layout: splash
+header: 
+  image: /sounion.jpg
 ---
 
 ## Welcome to GitHub Pages
