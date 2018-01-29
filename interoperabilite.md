@@ -11,7 +11,7 @@ layout: splash
 <table>
 
 <thead>
-<th>Lecteur \ Créateur</th>
+<th>Lecteurs (lignes) x Créateurs (colonnes)</th>
 <th>Steatite</th>
 <th>Cassandre</th>
 <th>Porphyry (dans Argos)</th>
