@@ -3,7 +3,7 @@ title: Installer
 layout: splash
 header:
   overlay_image: /assets/install.png
-  overlay_filter: rgba(0, 64, 0, 0.5)
+  overlay_filter: rgba(0, 255, 0, 0.5)
 ---
 
 ## Développement de logiciels sur mesure
