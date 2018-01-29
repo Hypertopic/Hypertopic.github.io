@@ -93,11 +93,37 @@ layout: splash
 </tr>
 <tr>
 <th>Agorae</th>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+<td><ul>
+<li>corpus</li>
+<li>nom d'item</li>
+<li>vignette d'item</li>
+<li>ressource d'item</li>
+</ul></td>
+
+<td><ul>
+<li>corpus</li>
+<li>nom d'item</li>
+<li>fragment (correspondant à un marqueur)*</li>
+</ul></td>
+
+<td><ul>
+<li>portfolio</li>
+<li>point de vue</li>
+<li>attribut d'item</li>
+<li>catégorie d'item</li>
+</ul></td>
+
+<td><ul>
+<li>portfolio</li>
+<li>corpus</li>
+<li>point de vue</li>
+<li>attribut d'item (dont ressource)</li>
+<li>catégorie d'item</li>
+</ul></td>
+
+<td><ul>IDEM</ul></td>
+
 </tr>
 </tbody>
 </table>
