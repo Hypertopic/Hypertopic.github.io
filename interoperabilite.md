@@ -37,7 +37,7 @@ layout: splash
 <li>ressource d'item</li>
 </ul></td>
 
-<td>IDEM</td>
+<td><ul>IDEM</ul></td>
 
 <td><ul>
 <li>portfolio</li>
@@ -80,7 +80,7 @@ layout: splash
 <li>catégorie d'item</li>
 </ul></td>
 
-<td>IDEM</td>
+<td><ul>IDEM</ul></td>
 
 <td><ul>
 <li>portfolio</li>
