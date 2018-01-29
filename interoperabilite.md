@@ -8,10 +8,6 @@ layout: splash
 
 ## Interopérabilité entre logiciels
 
- a | b | c 
----|---|---
- d | e | f 
-
 <table>
 
 <thead>
@@ -65,11 +61,36 @@ layout: splash
 </tr>
 <tr>
 <th>LaSuli</th>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+ 
+<td><ul>
+<li>corpus</li>
+<li>nom d'item</li>
+<li>ressource d'item</li>
+</ul></td>
+
+<td><ul>
+<li>corpus</li>
+<li>nom d'item</li>
+<li>ressource d'item</li>
+</ul></td>
+
+<td><ul>
+<li>portfolio</li>
+<li>point de vue</li>
+<li>attribut d'item</li>
+<li>catégorie d'item</li>
+</ul></td>
+
+<td>IDEM</td>
+
+<td><ul>
+<li>portfolio</li>
+<li>corpus</li>
+<li>point de vue</li>
+<li>attribut d'item (dont vignette et ressource)</li>
+<li>catégorie d'item</li>
+</ul></td> 
+
 </tr>
 <tr>
 <th>Agorae</th>
