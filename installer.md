@@ -20,11 +20,15 @@ Les codes sources de nos logiciels sont disponibles sur GitHub. Chacun est accom
 - [Cassandre](https://github.com/Hypertopic/Cassandre),
 - [Agorae](https://github.com/Hypertopic/Agorae).
 
+# Sécurité
+
+L'authentification des usagers et leurs autorisations sont gérées par un autre logiciel – [AAAforREST](https://github.com/Hypertopic/) – qui sert de "guichet unique" des services (*HTTP reverse proxy*). Par rapport à `nginx` ou `Apache`, il permet de mettre en place les configurations classiques pour Hypertopic de manière plus simple, sans risquer de laisser ouvertes des failles. Par ailleurs, il permet, si on le souhaite, l'authentification conjointe d'usagers institutionnels (LDAP) et de collaborateurs externes.
+
 # Adaptateur
 
-Dans le cas où vos données doivent demeurer dans un entrepôt autre qu'Argos (base de données, entrepôt RDF, annuaire LDAP, etc.), il est possible de développer un logiciel sur mesure appelé "adaptateur" qui présentera ces données sous une forme compatible avec le [protocole Hypertopic](https://github.com/Hypertopic/Protocol/blob/master/README.md).
+Dans le cas où vos données doivent demeurer dans un entrepôt autre qu'Argos (base de données relationnelle, entrepôt RDF, annuaire LDAP, etc.), il est possible de développer un logiciel sur mesure appelé "adaptateur" qui présentera ces données sous une forme compatible avec le [protocole Hypertopic](https://github.com/Hypertopic/Protocol/blob/master/README.md).
 
-[Un exemple utilisant le framework Express.js](https://github.com/Hypertopic/ldap2hypertopic) est fourni, montrant comment présenter les entrées d'un annuaire sous forme d'items Hypertopic.
+[Un exemple utilisant le framework Express.js](https://github.com/Hypertopic/ldap2hypertopic) est fourni, montrant comment présenter les entrées d'un annuaire LDAP sous forme d'items Hypertopic.
 
 # Client spécifique
 
