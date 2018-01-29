@@ -1,7 +1,8 @@
 ---
-title: Interopérabilité
 layout: splash
 ---
+
+# Interopérabilité
 
 <table>
 
