@@ -127,3 +127,5 @@ layout: splash
 </tr>
 </tbody>
 </table>
+
+`(*)` Fonctionnalité expérimentale dans Porphyry v6. En cours de développement dans Porphyry v7.
