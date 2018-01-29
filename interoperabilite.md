@@ -45,6 +45,8 @@ layout: splash
 <li>point de vue</li>
 <li>attribut d'item</li>
 <li>catégorie d'item</li>
+<li>fragment*</li>
+<li>catégorie de fragment*</li>
 </ul></td>
 
 <td><ul>
@@ -53,8 +55,6 @@ layout: splash
 <li>point de vue</li>
 <li>attribut d'item (dont vignette et ressource)</li>
 <li>catégorie d'item</li>
-<li>fragment*</li>
-<li>catégorie de fragment*</li>
 </ul></td>
 
 </tr>
