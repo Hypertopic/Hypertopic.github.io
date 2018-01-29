@@ -33,7 +33,7 @@ layout: splash
 <td><ul>
 <li>corpus</li>
 <li>nom d'item</li>
-<li>marqueur*</li>
+<li>fragment (correspondant à un marqueur)*</li>
 <li>ressource d'item</li>
 </ul></td>
 
@@ -45,8 +45,6 @@ layout: splash
 <li>point de vue</li>
 <li>attribut d'item</li>
 <li>catégorie d'item</li>
-<li>fragment*</li>
-<li>catégorie de fragment*</li>
 </ul></td>
 
 <td><ul>
