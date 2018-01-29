@@ -4,6 +4,14 @@ layout: splash
 
 # Interopérabilité
 
+## Primitives du modèle
+
+## Interopérabilité entre logiciels
+
+ a | b | c 
+---|---|---
+ d | e | f 
+
 <table>
 
 <tr>
