@@ -104,7 +104,7 @@ layout: splash
 <td><ul>
 <li>corpus</li>
 <li>nom d'item</li>
-<li>fragment (correspondant à un marqueur)*</li>
+<li>ressource d'item</li>
 </ul></td>
 
 <td><ul>
