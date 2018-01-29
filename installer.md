@@ -22,7 +22,7 @@ Les codes sources de nos logiciels sont disponibles sur GitHub. Chacun est accom
 
 # Sécurité
 
-L'authentification des usagers et leurs autorisations sont gérées par un autre logiciel – [AAAforREST](https://github.com/Hypertopic/) – qui sert de "guichet unique" des services (*HTTP reverse proxy*). Par rapport à `nginx` ou `Apache`, il permet de mettre en place les configurations classiques pour Hypertopic de manière plus simple, sans risquer de laisser ouvertes des failles. Par ailleurs, il permet, si on le souhaite, l'authentification conjointe d'usagers institutionnels (LDAP) et de collaborateurs externes.
+L'authentification des usagers et leurs autorisations sont gérées par un autre logiciel – [AAAforREST](https://github.com/Hypertopic/AAAforREST) – qui sert de "guichet unique" des services (*HTTP reverse proxy*). Par rapport à `nginx` ou `Apache`, il permet de mettre en place les configurations classiques pour Hypertopic de manière plus simple, sans risquer de laisser ouvertes des failles. Par ailleurs, il permet, si on le souhaite, l'authentification conjointe d'usagers institutionnels (LDAP) et de collaborateurs externes.
 
 # Adaptateur
 
