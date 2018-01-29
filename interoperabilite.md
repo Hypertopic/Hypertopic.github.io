@@ -46,7 +46,7 @@ layout: splash
 <li>attribut d'item</li>
 <li>catégorie d'item</li>
 <li>fragment*</li>
-<li>catégorie de fragments</li>
+<li>catégorie de fragment*</li>
 </ul></td>
 
 <td><ul>
