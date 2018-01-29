@@ -8,7 +8,7 @@ header:
   cta_url: "http://vitraux.porphyry.org"
 ---
 
-Le logiciel Porphyry tire son nom de l'*arbre de Porphyre*, 
+Le logiciel tire son nom de l'*arbre de Porphyre*, 
 un des premiers systèmes classificatoires représentés sous forme graphique.
 
 # Fonctionnalités
