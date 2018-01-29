@@ -34,6 +34,7 @@ layout: splash
 <li>corpus</li>
 <li>nom d'item</li>
 <li>marqueur*</li>
+<li>ressource d'item</li>
 </ul></td>
 
 <td>IDEM</td>
