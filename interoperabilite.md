@@ -14,14 +14,14 @@ layout: splash
 
 <table>
 
-<tr>
+<thead>
 <th>Lecteur \ Créateur</th>
 <th>Steatite</th>
 <th>Cassandre</th>
 <th>Porphyry (dans Argos)</th>
 <th>LaSuli (dans Argos)</th>
 <th>Agorae (dans Argos)</th>
-</tr>
+</thead>
 
 <tr>
 <th>Porphyry</th>
