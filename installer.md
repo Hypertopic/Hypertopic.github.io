@@ -32,4 +32,4 @@ Dans le cas où vos données doivent demeurer dans un entrepôt autre qu'Argos (
 
 # Client spécifique
 
-Dans le cas où les traitements proposés par les clients du collectif (Porphyry, LaSuli, Agorae) sont trop génériques, il est possible de développer des clients plus adaptés à vos données. Ce développement est grandement facilité par la réutilisation de la blibliothèque logicielle "[Hypertopic Node.js Library](https://www.npmjs.com/package/hypertopic)".
+Dans le cas où les traitements proposés par les logiciels clients du collectif (Porphyry, LaSuli, Agorae) seraient jugées trop génériques, il est possible de développer des clients plus adaptés à vos données. Ce développement est grandement facilité par la réutilisation de la blibliothèque logicielle "[Hypertopic Node.js Library](https://www.npmjs.com/package/hypertopic)".
