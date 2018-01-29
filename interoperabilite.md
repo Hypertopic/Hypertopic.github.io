@@ -22,7 +22,8 @@ layout: splash
 <th>LaSuli (dans Argos)</th>
 <th>Agorae (dans Argos)</th>
 </thead>
-
+<tbody>
+ 
 <tr>
 <th>Porphyry</th>
 
@@ -78,4 +79,5 @@ layout: splash
 <td></td>
 <td></td>
 </tr>
+</tbody>
 </table>
