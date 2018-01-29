@@ -1,3 +1,8 @@
+---
+title: Interopérabilité
+layout: splash
+---
+
 <table>
 
 <tr>
