@@ -26,7 +26,7 @@ L'authentification des usagers et leurs autorisations sont gérées par un autre
 
 # Adaptateur
 
-Dans le cas où vos données doivent demeurer dans un entrepôt autre qu'Argos (base de données relationnelle, entrepôt RDF, annuaire LDAP, etc.), il est possible de développer un logiciel sur mesure appelé "adaptateur" qui présentera ces données sous une forme compatible avec le [protocole Hypertopic](https://github.com/Hypertopic/Protocol/blob/master/README.md).
+Dans le cas où vos données doivent demeurer dans un entrepôt autre qu'Argos (par exemple dans une base de données relationnelle, un entrepôt RDF ou un annuaire LDAP), il est possible de développer un logiciel sur mesure appelé "adaptateur" qui présentera ces données sous une forme compatible avec le [protocole Hypertopic](https://github.com/Hypertopic/Protocol/blob/master/README.md).
 
 [Un exemple utilisant le framework Express.js](https://github.com/Hypertopic/ldap2hypertopic) est fourni, montrant comment présenter les entrées d'un annuaire LDAP sous forme d'items Hypertopic.
 
