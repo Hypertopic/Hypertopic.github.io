@@ -1,5 +1,5 @@
 title: Hypertopic
 remote_theme: "mmistakes/minimal-mistakes"
-locale: "fr-FR"
+locale: "fr"
 plugins:
   - jekyll-feed
