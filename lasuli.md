@@ -15,13 +15,13 @@ Le nom du logiciel est un acronyme signifiant "Logiciel d'annotation sociale à 
 ## Analyse ascendante d'un texte sur le Web
 
 <video width="506" height="316" controls="">
-<source src="http://hypertopic.org/Media/if14_lasuli_create.mp4" type="video/mp4">
+<source src="/assets/if14_lasuli_create.mp4" type="video/mp4">
 Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
 </video>
 
 ## Lecture d'analyses réalisées par d'autres
 
 <video width="506" height="316" controls="">
-<source src="http://hypertopic.org/Media/if14_lasuli_read.mp4" type="video/mp4">
+<source src="/assets/if14_lasuli_read.mp4" type="video/mp4">
 Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
 </video>
