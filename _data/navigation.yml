@@ -11,3 +11,5 @@ main:
     url: /agorae
   - title: "Installer"
     url: /installer
+  - title: "Approfondir"
+    url: /approfondir

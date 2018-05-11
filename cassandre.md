@@ -18,7 +18,7 @@ Cassandre est une plateforme de journaux de bord permettant de :
 - Adosser chaque compte-rendu à un compte-rendu existant, et ainsi expliciter le fondement de chaque compte-rendu ;
 - Distinguer la nature des différents comptes-rendus (par un code couleur) : note de lecture Compte-rendu 
 théorique , observation de terrain Compte-rendu de terrain, analyse Compte-rendu de codage, considérations logistiques Compte-rendu opérationnel, mise en forme des résultats Schématisation...
-- Localiser un mot ou une expression dans le matériau empirique et l'afficher sous forme de concordances ;
+- Localiser un mot ou une expression dans le matériau empirique ([JADT 2012](http://publications.icd.utt.fr/e737b2eb9d88b15fad5cad731e610590)) et l'afficher sous forme de concordances ([DN 2010, section 3.1](http://publications.icd.utt.fr/71376a63935238483d1e86d5690004a3));
 - Choisir ce qui reste privé et ce que l'on partage (et avec qui) ;
 - Solliciter des commentaires sur des résultats intermédiaires ;
 - Schématiser ses conceptualisations.

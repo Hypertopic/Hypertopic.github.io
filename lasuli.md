@@ -18,6 +18,7 @@ Le nom du logiciel est un acronyme signifiant "Logiciel d'annotation sociale à 
 <source src="/assets/if14_lasuli_create.mp4" type="video/mp4">
 Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
 </video>
+([DN 2010, section 2.1](http://publications.icd.utt.fr/71376a63935238483d1e86d5690004a3))
 
 ## Lecture d'analyses réalisées par d'autres
 
@@ -25,3 +26,4 @@ Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
 <source src="/assets/if14_lasuli_read.mp4" type="video/mp4">
 Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
 </video>
+([DN 2010, section 2.2](http://publications.icd.utt.fr/71376a63935238483d1e86d5690004a3))
