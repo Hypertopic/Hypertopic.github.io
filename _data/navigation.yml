@@ -9,6 +9,8 @@ main:
     url: /cassandre
   - title: "Agorae"
     url: /agorae
+  - title: "TraduXio"
+    url: /traduxio
   - title: "Installer"
     url: /installer
   - title: "Approfondir"

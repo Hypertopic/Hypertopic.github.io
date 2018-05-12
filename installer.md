@@ -18,7 +18,8 @@ Les codes sources de nos logiciels sont disponibles sur GitHub. Chacun est accom
 - [Porphyry](https://github.com/Hypertopic/Porphyry),
 - [Steatite](https://github.com/Hypertopic/Steatite),
 - [Cassandre](https://github.com/Hypertopic/Cassandre),
-- [Agorae](https://github.com/Hypertopic/Agorae).
+- [Agorae](https://github.com/Hypertopic/Agorae),
+- [TraduXio](https://github.com/Hypertopic/TraduXio).
 
 # Sécurité
 
