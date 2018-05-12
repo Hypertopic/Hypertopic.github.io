@@ -2,7 +2,7 @@
 title: Approfondir
 layout: splash
 header:
-  overlay_image: http://i.dawn.com/large/2015/04/552f7dbbaf31e.jpg
+  overlay_image: https://i.dawn.com/large/2015/04/552f7dbbaf31e.jpg
   overlay_filter: 0.7
 ---
 
