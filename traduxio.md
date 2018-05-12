@@ -8,6 +8,8 @@ header:
   cta_url: "https://traduxio.org/works/"
 ---
 
+Le nom du logiciel, de même que son homophone en latin, évoque tout autant la traduction que le fait de « guider à travers ». Autrement dit, le logiciel a pour ambition de mettre en visibilité l’expertise des traducteurs afin de guider le lecteur de textes culturels à travers les frontières linguistiques et les siècles.
+
 # Fonctionnalités
 
 - Comparer les traductions d'une même œuvre,
