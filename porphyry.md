@@ -19,10 +19,10 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
   - Consulter les attributs et les catégories décrivant un item,
 - Décrire un item,
   - Décrire un item à l'aide d'attributs,
-  - Décrire un item selon un point de vue à l'aide de catégories, 
+  - Décrire un item à l'aide d'une catégorie selon un point de vue,
 - Éditer un point de vue,
   - Créer un point de vue,
-  - Créer une catégorie ancêtre, 
-  - Créer une catégorie fille d'une autre catégorie, 
+  - Créer une catégorie (éventuellement fille ou sœur d'une autre catégorie),
   - Renommer une catégorie,
+  - Déplacer une catégorie dans l'arborescence,
   - Supprimer une catégorie et ses descendantes.
