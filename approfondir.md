@@ -16,6 +16,7 @@ header:
 
 # Philosophie de l'informatique
 
+* Modéliser ce qui résiste à la modélisation : De la sémantique à la [sémiotique](https://hal-utt.archives-ouvertes.fr/hal-02313535v1)
 * [Ontologies](http://publications.icd.utt.fr/6b403ea646c2f6c3c120f02c0e264dd6) du Web : Histoire refoulée et perspectives paradoxales.
 * [Beyond](http://publications.icd.utt.fr/71376a63935238483d1e86d569000d5b) Web 2.0... and beyond the Semantic Web
 * Corpus scientifiques numérisés : Savoirs de référence et [points de vue](http://publications.icd.utt.fr/ce329c153e7b8873a03ec0284701e69c) des experts
