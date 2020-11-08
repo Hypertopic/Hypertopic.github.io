@@ -12,6 +12,7 @@ header:
 * Quelle interdisciplinarité pour les « [humanités numériques](http://publications.icd.utt.fr/6b403ea646c2f6c3c120f02c0ee174ba) » ?
 * Le blog de recherche comme [journal de bord](http://hdl.handle.net/2268/204690) informatique. Un soutien à la réflexivité, à l'analyse, à la communication et à la scientificité ?
 * [Partager](http://publications.icd.utt.fr/a8e03f29acc44aab09e9fadcae016918) des corpus et leurs analyses à l'heure du Web 2.0 ([version anglaise](http://publications.icd.utt.fr/a8e03f29acc44aab09e9fadcae0136fd)). 
+* Éloge de l’[hétérogénéité des structures d’analyse](https://publications.icd.utt.fr/71376a63935238483d1e86d5690004a3) de textes
 * Towards a participative platform for cultural texts [translators](http://publications.icd.utt.fr/316a93a7d5280e99f1c696309a00bf49)
 
 # Philosophie de l'informatique
