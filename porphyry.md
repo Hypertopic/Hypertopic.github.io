@@ -30,7 +30,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
   <source src="/assets/porphyry_boolean_consult_st.mp4" type="video/mp4">
   Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
   </video>
-  <figcaption> Dans le portfolio VITRAUX, consultation des vitraux (items) correspondant à la période arts-déco.</figcaption>
+  <figcaption> Dans le portfolio VITRAUX, consultation des vitraux (items) correspondant à la période Art déco.</figcaption>
  </figure>
  
  - Croiser les catégories en fonction des items qu'elles décrivent ([COOP 2008, fig. 7](http://publications.icd.utt.fr/ce329c153e7b8873a03ec02847008459))
