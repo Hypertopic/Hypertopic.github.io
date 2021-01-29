@@ -18,7 +18,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Sélectionner des items en fonction d'une catégorie ou d'un attribut donné
  <figure>
   <video width="506" height="316" controls="">
-  <source src="/assets/porphyry_category_search.mp4" type="video/mp4">
+  <source src="/assets/porphyry_topic_search.mp4" type="video/mp4">
   Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
   </video>
   <figcaption>Dans le portfolio VITRAUX, Sélection des vitraux (items) faisant apparaître Saint Roch (catégorie).</figcaption>
