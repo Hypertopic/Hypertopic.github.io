@@ -15,9 +15,11 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
 
 ## Consulter un portfolio rassemblant plusieurs corpus et plusieurs points de vue
 
- - Sélectionner des items en fonction d'une catégorie ou d'un attribut donné 
+ - Sélectionner des items en fonction d'une catégorie  
 <video width="506" height="316" controls=""><source src="/assets/porphyry_topic_search.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video><video width="506" height="316" controls=""><source src="/assets/porphyry_tree_structure_topic_search.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
- 
+
+ - Sélectionner des items en fonction d'un attribut 
+
  - Consulter les items correspondant à des conjonctions (`ET`), disjonctions (`OU`) ou même absences (`NON`) de catégories
 <video width="506" height="316" controls=""><source src="/assets/porphyry_boolean_consult.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
  
@@ -29,6 +31,8 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  
  - À partir d'un item, en consulter d'autres décrits par une de ses catégories
 <video width="506" height="316" controls=""><source src="/assets/porphyry_items_with_same_topic.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
+
+ - À partir d'un item, consulter ceux qui portent le même nom
 
  - Partager un item au sein de son réseau social
 
