@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/steatite.png
   overlay_filter: 0.7
   cta_label: "Essayer en ligne"
-  cta_url: "http://steatite.hypertopic.org"
+  cta_url: "https://steatite.utt.fr"
 ---
 
 Le nom du logiciel est à l'origine un acronyme signifiant "Serveur de traitement, d'émission et d'archivage de textes, images et épures".
