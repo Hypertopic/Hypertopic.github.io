@@ -65,3 +65,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Déplacer une catégorie dans l'arborescence
  
  - Supprimer une catégorie et ses descendantes
+
+## Autres
+
+- Utiliser le logiciel dans la langue de son choix ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/lang_set.feature))
