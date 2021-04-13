@@ -15,7 +15,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
 
 ## Consulter un portfolio rassemblant plusieurs corpus et plusieurs points de vue
 
- - Sélectionner des items en cherchant à partir d'un terme une rubrique ou un attribut ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/portfolio_search.feature)) 
+ - Sélectionner des items en fonction d'une rubrique ou d'un attribut contenant un terme ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/portfolio_search.feature)) 
 <video width="506" height="316" controls=""><source src="/assets/porphyry_topic_search.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
 
  - Sélectionner des items en fonction de la place d'une rubrique dans l'arborescence
