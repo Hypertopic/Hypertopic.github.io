@@ -24,7 +24,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Sélectionner des items en fonction de la place d'une rubrique dans l'arborescence
 <video width="506" height="316" controls=""><source src="/assets/porphyry_tree_structure_topic_search.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
 
- - Combiner les critères de sélection avec des conjonctions (`ET`), disjonctions (`OU`) ou même absences (`NON`) de rubriques ou d'attributs
+ - Combiner les critères de sélection avec des conjonctions (`ET`), disjonctions (`OU`) ou même absences (`NON`) de rubriques ou d'attributs ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/portfolio_browse.feature))
 <video width="506" height="316" controls=""><source src="/assets/porphyry_boolean_consult.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
  
  - Croiser les rubriques en fonction des items qu'elles décrivent ([COOP 2008, fig. 7](http://publications.icd.utt.fr/ce329c153e7b8873a03ec02847008459))
