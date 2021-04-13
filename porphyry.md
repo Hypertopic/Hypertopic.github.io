@@ -46,7 +46,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  
  - Décrire un item à l'aide d'attributs
  
- - Décrire un item à l'aide d'une catégorie (existante ou nouvelle) selon un point de vue
+ - Décrire un item à l'aide d'une catégorie (existante ou nouvelle) selon un point de vue ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/topic_assign.feature))
  
  - Commenter un item ou répondre à un commentaire (en texte libre avec des images et des liens vers des ressources externes)
  
