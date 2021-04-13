@@ -42,7 +42,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
 
 ## Éditer un item
 
- - Créer un item
+ - Créer un item ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_creation.feature))
  
  - Décrire un item à l'aide d'attributs ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/attribute_set.feature))
  
