@@ -18,6 +18,9 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Sélectionner des items en fonction d'une rubrique ou d'un attribut contenant un terme ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/portfolio_search.feature)) 
 <video width="506" height="316" controls=""><source src="/assets/porphyry_topic_search.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
 
+ - Consulter les attributs et les rubriques décrivant un item ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_consult.feature))
+<video width="506" height="316" controls=""><source src="/assets/porphyry_item_consult.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
+
  - Sélectionner des items en fonction de la place d'une rubrique dans l'arborescence
 <video width="506" height="316" controls=""><source src="/assets/porphyry_tree_structure_topic_search.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
 
@@ -26,9 +29,6 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  
  - Croiser les rubriques en fonction des items qu'elles décrivent ([COOP 2008, fig. 7](http://publications.icd.utt.fr/ce329c153e7b8873a03ec02847008459))
 <video width="506" height="316" controls=""><source src="/assets/porphyry_cross_topic.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
- 
- - Consulter les attributs et les rubriques décrivant un item ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_consult.feature))
-<video width="506" height="316" controls=""><source src="/assets/porphyry_item_consult.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
  
  - À partir d'un item, consulter les items apparentés ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_get_related_items.feature))
 <video width="506" height="316" controls=""><source src="/assets/porphyry_items_with_same_topic.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
