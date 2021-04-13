@@ -32,7 +32,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Consulter les attributs et les catégories décrivant un item
 <video width="506" height="316" controls=""><source src="/assets/porphyry_item_consult.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
  
- - À partir d'un item, en consulter d'autres décrits par une de ses catégories
+ - À partir d'un item, consulter les items apparentés ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_get_related_items.feature))
 <video width="506" height="316" controls=""><source src="/assets/porphyry_items_with_same_topic.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
 
  - À partir d'un item, consulter ceux qui portent le même nom
