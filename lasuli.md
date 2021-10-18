@@ -13,7 +13,7 @@ Le nom du logiciel est un acronyme signifiant "Logiciel d'annotation sociale à 
 # Fonctionnalités
 
 ## Analyse ascendante d'un texte sur le Web
-([DN 2010, section 2.1](http://publications.icd.utt.fr/71376a63935238483d1e86d5690004a3))
+([DN 2010, section 2.1](https://hal-utt.archives-ouvertes.fr/hal-02391916))
 
 * Créer un point de vue
 <video width="506" height="316" controls="">
@@ -46,7 +46,7 @@ Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
 </video>
 
 ## Lecture d'analyses réalisées par d'autres
-([DN 2010, section 2.2](http://publications.icd.utt.fr/71376a63935238483d1e86d5690004a3))
+([DN 2010, section 2.2](https://hal-utt.archives-ouvertes.fr/hal-02391916))
 
 <video width="506" height="316" controls="">
 <source src="/assets/if14_lasuli_read.mp4" type="video/mp4">
