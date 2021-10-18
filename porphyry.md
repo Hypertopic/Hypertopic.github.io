@@ -27,7 +27,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Combiner les critères de sélection avec des conjonctions (`ET`), disjonctions (`OU`) ou même absences (`NON`) de rubriques ou d'attributs ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/portfolio_browse.feature))
 <video width="506" height="316" controls=""><source src="/assets/porphyry_boolean_consult.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
  
- - Croiser les rubriques en fonction des items qu'elles décrivent ([COOP 2008, fig. 7](http://publications.icd.utt.fr/ce329c153e7b8873a03ec02847008459))
+ - Croiser les rubriques en fonction des items qu'elles décrivent ([COOP 2008, fig. 7](https://hal-utt.archives-ouvertes.fr/hal-02917695))
 <video width="506" height="316" controls=""><source src="/assets/porphyry_cross_topic.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
  
  - À partir d'un item, consulter les items apparentés ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_get_related_items.feature))
