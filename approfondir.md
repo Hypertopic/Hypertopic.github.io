@@ -29,7 +29,7 @@ header:
 * Towards a standard [protocol](https://hal-utt.archives-ouvertes.fr/hal-02363229) for community-driven organizations of knowledge 
 * Hypertopic : une métasémiotique et un protocole pour le [Web socio-sémantique](https://archivesic.ccsd.cnrs.fr/sic_00180793)
 * [Porphyry & Steatite](https://hal.archives-ouvertes.fr/hal-01563103): Software layers for sense makers in humanities
-* The [Agoræ/Hypertopic](https://hal-utt.archives-ouvertes.fr/hal-02939349) approach.
+* The [Agoræ/Hypertopic](https://hal-utt.archives-ouvertes.fr/hal-03418138v1) approach.
 
 
 
