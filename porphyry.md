@@ -60,7 +60,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  
  - Déplacer une rubrique dans l'arborescence
  
- - Supprimer une rubrique et ses descendantes
+ - Supprimer une rubrique
  
  - Autoriser un contributeur à éditer un point de vue ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_authorize_editing.feature))
 
