@@ -58,7 +58,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  
  - Renommer une rubrique
  
- - Déplacer une rubrique dans l'arborescence
+ - Déplacer une rubrique (et ses descendantes) dans l'arborescence
  
  - Supprimer une rubrique
  
