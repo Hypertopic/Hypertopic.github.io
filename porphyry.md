@@ -64,6 +64,12 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  
  - Autoriser un contributeur à éditer un point de vue ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_authorize_editing.feature))
 
+# Repérer des items dans l'espace
+
+- Repérer des items sur une carte du monde, une vue aérienne (avec éventuellement des plans superposés) en fonction d'un nom de lieu.
+
+- Repérer des items sur le plan d'un édifice en fonction d'un nom de lieu et de leurs numéros de baies (méthode spécifique aux vitraux).
+
 ## Autres
 
 - Utiliser le logiciel dans la langue de son choix ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/lang_set.feature))
