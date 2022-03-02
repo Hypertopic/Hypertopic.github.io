@@ -44,7 +44,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  
  - Décrire un item à l'aide d'une rubrique (existante ou nouvelle) selon un point de vue ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/topic_assign.feature))
  
- - Commenter un item ou répondre à un commentaire (en texte libre avec des images et des liens vers des ressources externes)
+ - Commenter un item ou répondre à un commentaire (en texte libre avec des images et des liens vers des ressources externes) ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_comment.feature))
  
  - Recommander ou partager un commentaire ou une discussion
  
@@ -54,13 +54,13 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
 
  - Créer un point de vue
  
- - Créer une rubrique (éventuellement fille ou sœur d'une autre rubrique)
+ - Créer une rubrique (éventuellement fille ou sœur d'une autre rubrique) ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_topic_create.feature))
  
- - Renommer une rubrique
+ - Renommer une rubrique ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_topic_rename.feature))
  
- - Déplacer une rubrique (et ses descendantes) dans l'arborescence
+ - Déplacer une rubrique (et ses descendantes) dans l'arborescence ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_topic_move.feature))
  
- - Supprimer une rubrique
+ - Supprimer une rubrique ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_topic_delete.feature))
  
  - Autoriser un contributeur à éditer un point de vue ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_authorize_editing.feature))
 
