@@ -38,11 +38,11 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
 
 ## Éditer un item
 
- - Créer un item ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_creation.feature))
+ - Créer un item ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/porfolio_corpus_item_create.feature))
  
- - Décrire un item à l'aide d'attributs ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/attribute_set.feature))
+ - Décrire un item à l'aide d'attributs ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_set_attribute.feature))
  
- - Décrire un item à l'aide d'une rubrique (existante ou nouvelle) selon un point de vue ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/topic_assign.feature))
+ - Décrire un item à l'aide d'une rubrique (existante ou nouvelle) selon un point de vue ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_assign_topic.feature))
  
  - Commenter un item ou répondre à un commentaire (en texte libre avec des images et des liens vers des ressources externes) ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_comment.feature))
  
@@ -68,7 +68,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
 
 - Repérer des items sur une carte du monde, une vue aérienne (avec éventuellement des plans superposés) en fonction d'un nom de lieu
 
-- Repérer des items sur le plan d'un édifice en fonction d'un nom de lieu et de leurs numéros de baies (méthode spécifique aux vitraux) ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_browse.feature))
+- Repérer des items sur le plan d'un édifice en fonction d'un nom de lieu et de leurs numéros de baies (méthode spécifique aux vitraux) ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/portfolio_browse_spatially.feature))
 
 ## Autres
 
