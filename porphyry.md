@@ -47,6 +47,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Décrire un item à l'aide d'attributs
  
  - Décrire un item à l'aide d'une catégorie (existante ou nouvelle) selon un point de vue
+<video width="506" height="316" controls=""><source src="/assets/porphyry_item_assign_topic.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
  
  - Commenter un item ou répondre à un commentaire (en texte libre avec des images et des liens vers des ressources externes)
  
