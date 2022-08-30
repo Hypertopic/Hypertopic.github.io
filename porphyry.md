@@ -43,6 +43,7 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Décrire un item à l'aide d'attributs ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_set_attribute.feature))
  
  - Décrire un item à l'aide d'une rubrique (existante ou nouvelle) selon un point de vue ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_assign_topic.feature))
+<video width="506" height="316" controls=""><source src="/assets/porphyry_item_assign_topic.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
  
  - Commenter un item ou répondre à un commentaire (en texte libre avec des images et des liens vers des ressources externes) ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/item_comment.feature))
  
