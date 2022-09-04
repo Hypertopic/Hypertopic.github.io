@@ -15,6 +15,7 @@ Le nom du logiciel est une translittération (audacieuse) de "ἀγοραί", le
 ## Éditer un corpus
 - Créer/supprimer un corpus d'items,
 - Créer/supprimer un item,
+<video width="506" height="316" controls=""><source src="/assets/agorae_createItem.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
 - Définir/supprimer l'attribut d'un item,
 - Assigner/supprimer une catégorie à un item,
 <video width="506" height="316" controls=""><source src="/assets/agorae_assignCategory.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
