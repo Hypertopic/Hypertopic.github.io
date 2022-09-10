@@ -59,6 +59,8 @@ un des premiers systèmes classificatoires représentés sous forme graphique.
  - Créer une rubrique (éventuellement fille ou sœur d'une autre rubrique) ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_topic_create.feature))
  
  - Renommer une rubrique ([exemple](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_topic_rename.feature))
+<video width="506" height="316" controls=""><source src="/assets/porphyry_topic_rename.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
+
  
  - Déplacer une rubrique (et ses descendantes) dans l'arborescence ([exemples](https://github.com/Hypertopic/Porphyry/blob/v7/features/viewpoint_topic_move.feature))
 <video width="506" height="316" controls=""><source src="/assets/porphyry_viewpoint_move_topic.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
