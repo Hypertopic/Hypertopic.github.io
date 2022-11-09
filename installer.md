@@ -8,13 +8,13 @@ header:
 
 Dans les onglets précédents, vous avez identifié les fonctionnalités qui vous intéressent et établi la liste des logiciels que vous voulez utiliser ?
 
-Attention cependant, à l'exception de LaSuli, tous nos logiciels nécessitent d'être installés sur un serveur. L'administration système est un métier : si vous ne savez pas faire, nous vous recommandons de vous rapprocher du service informatique de votre université ou de votre entreprise.
+Attention cependant, tous nos logiciels nécessitent d'être installés sur un serveur. L'administration système est un métier : si vous ne savez pas faire, nous vous recommandons de vous rapprocher du service informatique de votre université ou de votre entreprise.
 
 # Logiciels de la suite Hypertopic
 
 Les codes sources de nos logiciels sont disponibles sur GitHub. Chacun est accompagné d'instructions d'installation et d'une adresse de contact.
 
-- [Argos](https://github.com/Hypertopic/Argos) (nécessaire si vous souhaitez utiliser Porphyry, LaSuli ou Agorae),
+- [Argos](https://github.com/Hypertopic/Argos) (nécessaire si vous souhaitez utiliser Porphyry ou Agorae),
 - [Porphyry](https://github.com/Hypertopic/Porphyry),
 - [Steatite](https://github.com/Hypertopic/Steatite),
 - [Cassandre](https://github.com/Hypertopic/Cassandre),
@@ -33,4 +33,4 @@ Dans le cas où vos données doivent demeurer dans un entrepôt autre qu'Argos (
 
 # Client spécifique
 
-Dans le cas où les traitements proposés par les logiciels clients du collectif (Porphyry, LaSuli, Agorae) seraient jugés trop génériques, il est possible de développer des clients plus adaptés à vos données. Ce développement est grandement facilité par la réutilisation de la blibliothèque logicielle "[Hypertopic Node.js Library](https://www.npmjs.com/package/hypertopic)".
+Dans le cas où les traitements proposés par les logiciels clients du collectif (Porphyry, Agorae) seraient jugés trop génériques, il est possible de développer des clients plus adaptés à vos données. Ce développement est grandement facilité par la réutilisation de la blibliothèque logicielle "[Hypertopic Node.js Library](https://www.npmjs.com/package/hypertopic)".
