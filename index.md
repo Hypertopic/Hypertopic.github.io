@@ -16,13 +16,13 @@ Le collectif Hypertopic conçoit, développe et diffuse en [open-source](https:/
     label="English"
     kind="subtitles"
     srclang="en"
-    src="hypertopic_en.vtt"
+    src="/assets/hypertopic_en.vtt"
     default />
   <track
     label="French"
     kind="subtitles"
     srclang="fr"
-    src="hypertopic_fr.vtt" />
+    src="/assets/hypertopic_fr.vtt" />
 </video>
 
 Le modèle Hypertopic est issu de recherches en informatique, plus particulièrement dans le domaine de l'ingénierie des connaissances. La modélisation des connaissances qu'il permet, à la différence des ontologies du Web sémantique :
