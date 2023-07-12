@@ -19,7 +19,7 @@ Le collectif Hypertopic conçoit, développe et diffuse en [open-source](https:/
     src="/assets/hypertopic_en.vtt"
     default />
   <track
-    label="French"
+    label="Français"
     kind="subtitles"
     srclang="fr"
     src="/assets/hypertopic_fr.vtt" />
