@@ -9,7 +9,21 @@ header:
 
 Le collectif Hypertopic conçoit, développe et diffuse en [open-source](https://github.com/Hypertopic) des technnologies logicielles pour le travail intellectuel, qu'il soit universitaire (archéologie, histoire de l'art, sociologie, philologie, traduction) ou en entreprise (propriété intellectuelle, capitalisation de l'expérience et des compétences).
 
-<video width="800" controls=""><source src="/assets/hypertopic_demo.mp4" type="video/mp4">Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.</video>
+<video width="800" controls="">
+  <source src="/assets/hypertopic_demo.mp4" type="video/mp4">
+  Votre navigateur ne sait pas afficher des vidéos au format MPEG 4.
+  <track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src="hypertopic_en.vtt"
+    default />
+  <track
+    label="French"
+    kind="subtitles"
+    srclang="fr"
+    src="hypertopic_fr.vtt" />
+</video>
 
 Le modèle Hypertopic est issu de recherches en informatique, plus particulièrement dans le domaine de l'ingénierie des connaissances. La modélisation des connaissances qu'il permet, à la différence des ontologies du Web sémantique :
 
